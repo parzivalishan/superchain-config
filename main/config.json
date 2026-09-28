@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "api": {
+    "baseUrl": "https://your-tunnel-host.trycloudflare.com",
+    "wsBaseUrl": "wss://your-tunnel-host.trycloudflare.com"
+  },
+  "notice": "Testnet backend"
+}
